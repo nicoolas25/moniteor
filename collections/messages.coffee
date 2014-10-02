@@ -1,1 +1,1 @@
-@Messages = new Meteor.Collection('messages')
+@Message = new Meteor.Collection('messages')
